@@ -450,7 +450,11 @@ MonoBehaviour:
   LeftRacket: {fileID: 1597995239}
   RightRacket: {fileID: 1240311385}
   ballRb: {fileID: 380816115}
+<<<<<<< Updated upstream
   moveSpeed: 20
+=======
+  moveSpeed: 40
+>>>>>>> Stashed changes
 --- !u!82 &380816119
 AudioSource:
   m_ObjectHideFlags: 0
